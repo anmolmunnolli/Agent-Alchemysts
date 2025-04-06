@@ -3,11 +3,12 @@ import gdown
 
 import json
 from sentence_transformers import SentenceTransformer, util
-
+json_url = "https://raw.githubusercontent.com/anmolmunnolli/Agent-Alchemysts/refs/heads/main/nomads_nest/data/top_500_cities.json"
+response = requests.get(json_url)
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 with open('data/top_500_cities.json') as f:
-    destinations = json.load(f)
+    destinations = response
 def run(state):
     if "persona" not in state:
         return []
