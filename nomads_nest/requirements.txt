@@ -17,3 +17,4 @@ accelerate
 peft
 sentence_transformers
 gdown
+requests
