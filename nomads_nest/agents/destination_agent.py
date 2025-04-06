@@ -1,6 +1,6 @@
 # agents/destination_agent.py
 import gdown
-
+import requests
 import json
 from sentence_transformers import SentenceTransformer, util
 json_url = "https://raw.githubusercontent.com/anmolmunnolli/Agent-Alchemysts/refs/heads/main/nomads_nest/data/top_500_cities.json"
