@@ -1,4 +1,5 @@
 # agents/destination_agent.py
+import gdown
 
 import json
 from sentence_transformers import SentenceTransformer, util
