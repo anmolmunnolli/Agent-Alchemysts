@@ -16,3 +16,4 @@ transformers
 accelerate 
 peft
 sentence_transformers
+gdown
