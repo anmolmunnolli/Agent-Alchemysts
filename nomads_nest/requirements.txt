@@ -207,12 +207,6 @@ locket @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/locket_16
 lxml==5.2.1
 lz4 @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/lz4_1699559532268/work
 Mako @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mako_1699481695868/work
-Markdown==3.7
-markdown-it-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markdown-it-py_1699473886965/work
-markdownlit==0.0.7
-MarkupSafe @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markupsafe_1707425732791/work
-marshmallow==3.26.1
-matplotlib==3.9.2
 matplotlib-inline @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/matplotlib-inline_1699484796387/work
 mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
 mdit-py-plugins @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mdit-py-plugins_1699559788389/work
@@ -352,8 +346,6 @@ requests-toolbelt @ file:///C:/Users/dev-admin/perseverance-python-buildout/croo
 retry-requests==2.0.0
 rfc3339-validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3339-validator_1699543924991/work
 rfc3986-validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3986-validator_1699543955651/work
-rich @ file:///C:/b/abs_21nw9z7xby/croot/rich_1720637504376/work
-rope @ file:///C:/b/abs_a4uy0nuc8z/croot/rope_1708963217026/work
 rpds-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rpds-py_1699565648947/work
 rsa==4.9
 Rtree @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rtree_1699565751755/work
