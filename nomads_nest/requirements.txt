@@ -11,3 +11,7 @@ streamlit-vertical-slider==2.5.5
 networkx 
 langgraph
 transformers
+diffusers 
+transformers 
+accelerate 
+peft
